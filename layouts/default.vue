@@ -44,7 +44,193 @@
           </v-btn>
         </template>
       </v-menu>
-    </v-app-bar>   
+    </v-app-bar>
+    
+<div class="chips">
+      <v-chip>Estonia</v-chip>
+       <v-chip>Fortnite</v-chip>
+        <v-chip>Live</v-chip>
+         <v-chip>Music</v-chip>
+          <v-chip>Mixes</v-chip>
+           <v-chip>Aquatics</v-chip>
+            <v-chip>Gardening</v-chip>
+             <v-chip>Comedy</v-chip>
+              <v-chip>Airplanes</v-chip>
+
+</div>
+<div class="content">
+  
+  <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=5">
+                <div class="below">
+                    <h2>How do we survive in the wild?</h2>
+                    <p class="username">Bangladesh</p>
+                    <p>32 views &bull; 1 minute ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=6" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=7">
+                <div class="below">
+                    <h2>How do we survive in the wild?</h2>
+                    <p class="username">Bangladesh</p>
+                    <p>32 views &bull; 1 minute ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=4" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=1">
+                <div class="below">
+                    <h2>How do we survive in the wild?</h2>
+                    <p class="username">Bangladesh</p>
+                    <p>32 views &bull; 1 minute ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=5" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=2">
+                <div class="below">
+                    <h2>City lide</h2>
+                    <p class="username">UK</p>
+                    <p>32 views &bull; 1 year ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=3" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=2">
+                <div class="below">
+                    <h2>Mälumäng</h2>
+                    <p class="username">Estonia</p>
+                    <p>32 views &bull;11 years ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=7" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=4">
+                <div class="below">
+                    <h2>Soumen Linna</h2>
+                    <p class="username">Finnish</p>
+                    <p>32 views &bull; 20 minutes ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=8" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=5">
+                <div class="below">
+                    <h2>Dora the Explorer</h2>
+                    <p class="username">Bangladesh</p>
+                    <p>32 views &bull; 2 minutes ago</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+         <div class="vid">
+            <div class="preview">
+                <img src="https://picsum.photos/350/190?random=4" alt=""> 
+                <div class="time">3:13</div>
+                <div class="hovicons">
+                    <v-icon>mdi-clock-outline</v-icon>
+                    <v-icon>mdi-view-stream-outline</v-icon>
+                </div>
+            </div>
+            <div class="inform">
+                <div class="left">
+                <img class="profile" src="https://picsum.photos/201?random=6">
+                <div class="below">
+                    <h2>TPT Õpilased Live</h2>
+                    <p class="username">Estonia, Tallinn</p>
+                    <p>32 views &bull; Live Right Now</p>
+                    </div>
+                </div>
+                    <v-icon></v-icon>
+                </div>
+        </div>
+
+</div>
+
     <v-navigation-drawer
       v-model="drawer"
       app
@@ -115,7 +301,7 @@ export default {
         header: null,
         pages: [
           { title: 'Home', link: '/', icon: 'mdi-home' },
-          { title: 'Trending', link: '/trending', icon: 'mdi-fire' },
+          { title: 'Explore', link: '/trending', icon: 'mdi-fire' },
           {
             title: 'Subscriptions',
             link: '#s',
@@ -189,7 +375,7 @@ export default {
         header: 'MORE FROM YOUTUBE',
         pages: [
           {
-            title: 'VueTube Premium',
+            title: 'YouTube Premium',
             link: '#vp',
             icon: 'mdi-youtube'
           },
@@ -326,7 +512,7 @@ export default {
     background-color: rgba(255, 255, 255, 0.3);
   }
   .tekst {
-    color: white !important;
+    color:black !important;
   }
   .yt{
     color: red !important;
@@ -334,6 +520,107 @@ export default {
   .suur{
     height: 40px;
     color: blue !important;
-  }
 }
+.chipid {
+  height: 5vh;
+  display: flex;
+}
+.content {
+    margin-top: 20px;
+    margin-left: 250px;
+    height: 80vh;
+    padding: 3%;
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+
+  } 
+  .vid {
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    cursor: pointer;
+  }
+  .vid .inform {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.below {
+    display: inline;
+    width: 96px;
+    margin-left: 8px;
+}
+.vid .inform h2, .vid .inform p{
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+
+}
+.inform h2 {
+    font-size: 16px;
+    cursor: pointer;
+ }
+ .inform p{
+    color: #aaaaaa;
+}
+p.username:hover{
+    color: red;
+}
+.inform .v-icon {
+    margin-top: 5px;
+    color: #aaaaaa;
+
+}
+.preview .time {
+    font-size: .8em;
+    position: absolute;
+    transform: translate(300px, -30px);
+    padding: 3px;
+    padding-right: 5px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.733);
+ }
+ .hovicons {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    transform: translate(310px, -190px);
+    opacity: 0;
+}
+
+.vid:hover .hovicons {
+    opacity: 1;
+}
+
+.hovicons .v-icon{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.733);
+    margin-bottom: 5px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 3px;
+ }
+ .left {
+    width: 160px;
+}
+
+.left .v-icon{
+    margin-right: 20px;
+}
+
+img.profile {
+    height: 2.2em;
+    border-radius: 50%;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+}
+
 </style>
